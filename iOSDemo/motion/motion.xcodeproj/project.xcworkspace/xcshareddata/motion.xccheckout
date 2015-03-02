@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>57394A00-DBDE-40EB-AFDD-3C4D0DAE1062</string>
+	<key>IDESourceControlProjectName</key>
+	<string>motion</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CF7DC3C6-FDE7-4BE4-9D72-E7691D16FA55</key>
+		<string>svn://114.215.103.177/codes/ios</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Demo/motion/motion.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CF7DC3C6-FDE7-4BE4-9D72-E7691D16FA55</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>CF7DC3C6-FDE7-4BE4-9D72-E7691D16FA55</key>
+		<string>svn://114.215.103.177/codes</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>svn://114.215.103.177/codes/ios/Demo/motion/motion.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CF7DC3C6-FDE7-4BE4-9D72-E7691D16FA55</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CF7DC3C6-FDE7-4BE4-9D72-E7691D16FA55</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ios</string>
+		</dict>
+	</array>
+</dict>
+</plist>
