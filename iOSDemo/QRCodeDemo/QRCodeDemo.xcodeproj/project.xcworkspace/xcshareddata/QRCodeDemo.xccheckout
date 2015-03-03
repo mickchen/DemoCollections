@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>119BA3F9-B605-4252-A3C4-3CB8922E8556</string>
+	<key>IDESourceControlProjectName</key>
+	<string>QRCodeDemo</string>
+	<key>IDESourceControlProjectPath</key>
+	<string>QRCodeDemo.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>A3CDAE90-6E7A-4F45-831C-733BFC0C18D7</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>svn://114.215.103.177/codes/ios/Demo/QRCodeDemo/QRCodeDemo.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>A3CDAE90-6E7A-4F45-831C-733BFC0C18D7</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>A3CDAE90-6E7A-4F45-831C-733BFC0C18D7</string>
+			<key>IDESourceControlWCCName</key>
+			<string>QRCodeDemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
